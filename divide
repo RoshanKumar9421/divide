@@ -1,0 +1,24 @@
+#include<stdio.h>
+
+int main(){
+
+    int x = 25;
+    int y = 5;
+
+    int divide = x/y;
+
+    printf("%d", divide);
+
+    if (x = 21, y = 5 )
+    {
+       printf("%d", divide)
+    }
+    
+    else 
+    {
+        return "division not possible";
+    }
+
+    return 0;
+}
+
